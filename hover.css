@@ -1,0 +1,48 @@
+.wrapper{
+    display: flex;
+    width: 100%;
+    border: 10px;
+    border-style: double;
+}
+
+.side{
+    padding: 30px;
+    background-color: turquoise;
+    height: 100vh;
+    width: 100px;
+}
+.but1{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+        
+}
+
+.but2{
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.but3{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.but4{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.main{
+    background-color: rgba(128, 128, 128, 0.37);
+    flex-grow: 1;  
+    padding: 30px;
+    box-sizing: border-box;
+}
