@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 50px;  
+    justify-content: center;
+    background-image: url("https://cdn.wallpapersafari.com/6/15/fHkZYA.jpg");
+    background-repeat: no-repeat;
+    
+    
+}    
+
+.head{
+    background-color: rgba(29, 165, 29, 0.977);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.table{
+    padding: 20px;
+    width: 100vh; 
+    background-color: #fff; 
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); 
+    overflow: hidden;
+}
+
+.row{
+    background-color: rgba(169, 169, 169, 0.776);
+}
+
+.col{
+    background-color: white;
+    color: black;
+}
+
+h1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:underline;
+}
